@@ -61,8 +61,8 @@ User: They can register for an account.  After the login, they can create the co
   - [ ] Create UI to interact with Application
   - [ ] Create IBM DB2 and connect with Python
   
-- [ ] Integrating Sendgrid Services
-  - [ ] Sendgrid Integration with Python Code
+- [x] Integrating Sendgrid Services
+  - [x] Sendgrid Integration with Python Code
 
 - [ ] Project Development Phase
   - [x] Delivery of Sprint-1
