@@ -56,24 +56,24 @@ User: They can register for an account.  After the login, they can create the co
   - [x] Prepare Milestone and Activity List
   - [x] Sprint Delivery Plan
 
-- [ ] Implementing Web Application
+- [x] Implementing Web Application
 
-  - [ ] Create UI to interact with Application
-  - [ ] Create IBM DB2 and connect with Python
+  - [x] Create UI to interact with Application
+  - [x] Create IBM DB2 and connect with Python
   
 - [x] Integrating Sendgrid Services
   - [x] Sendgrid Integration with Python Code
 
-- [ ] Project Development Phase
+- [x] Project Development Phase
   - [x] Delivery of Sprint-1
   - [x] Delivery of Sprint-2
-  - [ ]  Delivery of Sprint-3
-  - [ ] Delivery of Sprint-4
+  - [x]  Delivery of Sprint-3
+  - [x] Delivery of Sprint-4
 
-- [ ] Deployment of App in IBM Cloud
-  - [ ] Containerize the App
-  - [ ] Upload Image to IBM Container
-  - [ ] Deploy in Kubernetes Cluster
+- [x] Deployment of App in IBM Cloud
+  - [x] Containerize the App
+  - [x] Upload Image to IBM Container
+  - [x] Deploy in Kubernetes Cluster
 
 
 
